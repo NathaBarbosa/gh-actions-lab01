@@ -1,4 +1,4 @@
-name: Hello Flow
+name: Hello Flow Agendado
 on:
   schedule:
     - cron: '*/5 * * * *'
